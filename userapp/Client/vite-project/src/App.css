@@ -20,4 +20,5 @@
   background-color: gainsboro;
   color: white;
   text-align: center;
+  overflow-y:scroll;
 }
